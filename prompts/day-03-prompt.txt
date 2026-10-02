@@ -1,0 +1,70 @@
+Use case: infographic-diagram
+Create ONE finished Chinese travel infographic poster, DAY 3 of a matching four-poster Xi'an travel set. Portrait 9:16, aim high-resolution 2160×3840 if possible. Reference image is the Changchun poster, STYLE AND COMPOSITION ONLY. Replace all its content. Warm ivory parchment, forest-green calligraphy title with burnt-orange highlights, emerald ribbons, orange/green timeline markers, autumn corner leaves, rich watercolor/realistic-photo landmark collage on right, precise modern Chinese body typography. Mobile readable, generous space. Top title then schematic route, middle vertical itinerary on left 60% with scenes on right 40%, bottom planning rationale and practical reminders. Finished poster, no mockup or watermark.
+
+IMPORTANT source invariants: 兵马俑 early morning OR about 16:00 are conflicting source recommendations, never assert that one is definitively best. 共识：避开10:00–16:00. 丽山园 and 华清宫 are optional. Around-16:00 museum entry is NOT presented as a guaranteed feasible itinerary including all parks and the show. Explain tradeoff: if choosing 16:00 entry, decide optional visits according to opening hours and the show time. Route diagram uses dashed optional branches for 丽山园 and 华清宫. No invented park closing times or transfer times. Exact names: 丽山园 (丽, not 骊), 骊山 for the mountain, 《长恨歌》 for show.
+
+Exact poster text:
+
+Main title: 西安第3天行程海报
+Subtitle: 千年长安·临潼｜兵马俑听讲解｜华清宫可选｜长恨歌看实景
+
+Section ribbon: 今日路线
+Illustrated route: 市区 → 兵马俑 → 华清宫周边 →《长恨歌》→ 返回市区
+Optional dashed branch off 兵马俑: 丽山园（可选）
+Optional dashed branch off 华清宫周边: 华清宫游览（可选）
+Small route note: 临潼距市区约40公里；以预约与演出场次安排。
+
+Section ribbon: 详细行程安排
+Timeline row 1 time pill: 出发
+Heading: 地铁9号线 → 华清池站 → 公交
+Body: C口出站，公交到“秦兵马俑”站。
+Body: 攻略提到602／613路，乘车前核对。
+Body: 也可在纺织城换乘游5路；不坐路边揽客车。
+
+Timeline row 2 time pill: 错峰择一
+Heading: 早场或约16:00进馆
+Body: 原攻略意见不一，共识是避开10:00–16:00。
+Body: 想加丽山园、华清宫，优先核对开放时间和演出场次。
+
+Timeline row 3 time pill: 约2小时
+Heading: 秦始皇兵马俑博物馆
+Body: 按1号坑 → 3号坑 → 2号坑参观，避免回头路。
+Body: 一定听讲解；一号坑无空调。
+Price badge: 120元｜含丽山园及两园摆渡车
+Small annotation: 官方讲解60元／人（10人成团）｜讲解器40元
+
+Timeline row 4 time pill: 可选加游
+Heading: 丽山园，看铜车马
+Body: 两园间免费摆渡；园内电瓶车15元。
+Body: 建议留约1.5小时，按体力与时间取舍。
+
+Timeline row 5 time pill: 傍晚可选
+Heading: 华清宫，看预算决定
+Body: 120元，建议配讲解；不爬骊山约1小时。
+Body: 预算紧可跳过景区游览，仅看演出。
+
+Timeline row 6 time pill: 晚上
+Heading: 《长恨歌》实景演出
+Body: 华清宫内，以骊山为背景，约70分钟。
+Body: 按攻略3月底–10月底演出，旺季提前购票。
+Price badge: 190–980元｜攻略推荐290元档
+
+Timeline row 7 time pill: 散场
+Heading: 提前安排回市区的交通
+Body: 后几场可能赶不上地铁，提前核对末班车。
+Body: 不必买太前排，烟花喷火热浪明显。
+
+Bottom left ribbon: 怎么取舍最合适？
+Numbered tips: ① 兵马俑与讲解优先。
+② 丽山园、华清宫按时间选。
+③ 若16:00入馆，别默认能逛完两园再看演出。
+
+Bottom right ribbon: 实用提醒
+Bullets: • 兵马俑按攻略提前7天、8:30放票。
+• 带水、防晒和舒服的鞋，体力消耗大。
+• 只认官方购票渠道。
+• 冬季可改看《驼铃传奇》或《复活的军团》。
+
+Footer: 据《西安旅游攻略》整理｜票价、开放时间、交通与场次以官方为准
+
+Right artwork: large evocative museum pit showing authentic clay terracotta warrior rows under archaeological museum roof; delicate bronze chariot artifact vignette; 华清宫 gardens and imperial palace at dusk with 骊山 mountains; breathtaking outdoor 《长恨歌》 theatrical stage on water with warm light and dancers. Artwork warm and elegant, not fantasy robots. Keep all notes very readable, no cramming.

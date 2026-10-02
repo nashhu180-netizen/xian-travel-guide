@@ -1,0 +1,65 @@
+Use case: infographic-diagram
+Create ONE finished Chinese travel infographic poster, DAY 4 of a matching Xi'an four-poster series, with OPTIONAL itinerary choices instead of a mandatory linear timeline. Portrait 9:16, aim high-resolution 2160×3840 if possible. Uploaded Changchun poster is STYLE AND VISUAL COMPOSITION REFERENCE ONLY. Warm ivory paper, emerald rounded section ribbons, forest-green expressive brush title with burnt-orange highlights, orange/green pills, gold autumn foliage in corners, realistic watercolor photographic collages of Xi'an and nearby landmarks. Crisp modern printed Chinese body text. Flat poster, no frame/mockup/watermark. Top headline then a branched option route chart, center five sequentially NUMBERED alternative day-plan cards with small illustrations on the right; bottom choosing rules and preparation. Same graphic design family as a tourist timeline poster, but show explicitly that these are alternatives. Do not connect all five with a forward arrow implying doing them all. NO invented detailed routes for 华山 or 秦岭, NO fabricated ticket prices or hourly schedule. ONLY exact text below.
+
+Exact poster text:
+
+Main title: 西安第4天行程海报
+Subtitle: 可选加餐｜多留一天，按门票、体力和兴趣择一
+
+Section ribbon: 今日路线怎么选？
+Central branch node: 多一天
+Five independent branch nodes: 补陕历博｜华山｜市区慢游｜西安千古情｜秦岭峪口
+Important orange banner: 五选一，不是一天全走完
+
+Section ribbon: 五种备选行程
+Card 1 green numbered pill: 01 补遗憾
+Heading: 补上没约到的陕历博
+Route: 约到门票 → 陕西历史博物馆
+Body: 适合喜欢历史、前几天没约到的人。
+Body: 基本陈列免费预约，留足3小时以上。
+Body: 以约到的日期为锚点，调整其他行程。
+
+Card 2 orange numbered pill: 02 登山日
+Heading: 华山，单独留一天
+Route: 前一晚临潼住宿 → 火车前往华山
+Body: 原攻略提到火车到华山站约1小时。
+Body: 适合体力充足、想看山景的人。
+Body: 车次、登山线路与索道另行安排。
+
+Card 3 green numbered pill: 03 轻松逛
+Heading: 大兴善寺 + 小寨赛格
+Route: 大兴善寺 → 赛格国际购物中心
+Body: 市区慢游，看看“喵喵寺”。
+Body: 赛格看室内瀑布、超长扶梯，顺便吃饭。
+Body: 适合想放慢节奏的一天。
+
+Card 4 orange numbered pill: 04 看演出
+Heading: 西安世博园 +《西安千古情》
+Route: 西安世博园 →《西安千古情》
+Body: 原攻略票价278元起，留意可靠渠道套餐。
+Body: 适合喜欢舞台、视觉与杂技演出的人。
+Body: 先定演出场次，再安排出发时间。
+
+Card 5 green numbered pill: 05 去山里
+Heading: 秦岭峪口，自然放空
+Route: 选择峪口 → 安排往返交通 → 山间慢游
+Body: 夏天避暑，冬天看雪。
+Body: 具体峪口、天气与交通需另行规划。
+Body: 适合想看自然、远离人群的人。
+
+Bottom left ribbon: 一眼选到适合的
+Bullets: • 历史爱好：补陕历博。
+• 体力充足：华山。
+• 想轻松：大兴善寺 + 赛格。
+• 爱演出：西安千古情。
+• 爱自然：秦岭峪口。
+
+Bottom right ribbon: 出发前先确认
+Bullets: • 门票与演出预约。
+• 天气、体力与往返交通。
+• 长恨歌与千古情，只选一个也可以。
+• 登山与秦岭行程不要硬塞进市区半天。
+
+Footer: 据《西安旅游攻略》整理｜第4天为备选方案，票价与场次以官方为准
+
+Right-side scenes corresponding to each alternative: Tang sancai cultural relic museum display, imposing steep granite peaks of 华山 under golden haze, serene Chinese Buddhist temple with discreet small cat and shopping center waterfall vignette, glamorous theater performance stage for 西安千古情, quiet 秦岭 forest mountains and winding valley. Use consistent collage edge treatment and illustrated icons like the reference. No Changchun landmark, zoo animals or trams. Keep the poster predominantly useful information, not a wall of text.

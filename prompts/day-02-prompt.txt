@@ -1,0 +1,66 @@
+Use case: infographic-diagram
+Create ONE finished Chinese travel infographic poster, DAY 2 of a consistent four-poster Xi'an travel set. Portrait 9:16, aim for high-resolution 2160×3840 if possible. Supplied Changchun poster is STYLE AND COMPOSITION REFERENCE ONLY. All content must be Xi'an. Rich watercolor and realistic photographic collage, warm ivory parchment, dark forest-green calligraphy headline with burnt-orange highlighted characters, emerald section ribbons, alternating orange/green timeline pills, restrained autumn leaves. Very crisp readable Chinese typesetting. Top large title then route with illustrated landmark icons and arrows. Center left 60% width structured vertical timeline; right 40% width landmark scenes. Bottom two useful tip panels. Finished flat poster with no mockup, frame or watermark. ONLY use exact text below. Never invent exact times, prices or traffic durations. Day 2 museum choice is CONDITIONAL, not two consecutive museum visits: one main branch 陕西历史博物馆, one alternative 西安博物院＋小雁塔. Make that either/or clearly visible in a small branch beneath the museum icon.
+
+Exact poster text:
+
+Main title: 西安第2天行程海报
+Subtitle: 博物馆 + 不夜长安｜白天看文物｜傍晚拍大雁塔｜夜游不夜城
+
+Section ribbon: 今日路线
+Illustrated route: 安仁坊 → 博物馆择一 → 午饭 → 大雁塔 → 音乐喷泉 → 大唐不夜城
+Branch label under 博物馆择一: 约到：陕历博｜未约到：西安博物院 + 小雁塔
+
+Section ribbon: 详细行程安排
+Timeline row 1 time pill: 早上
+Heading: 安仁坊遗址展览馆
+Body: 小雁塔旁，免费。唐长安108坊之一，适合拍照。
+
+Timeline row 2 time pill: 上午
+Heading: 博物馆二选一，留足3小时
+Body: 约到票：陕西历史博物馆。
+Body: 没约到：西安博物院 + 小雁塔。
+Body: 基本陈列免费预约；珍宝馆、壁画馆另收费。
+Small annotation: 西安博物院与小雁塔在一起，适合保底。
+
+Timeline row 3 time pill: 午饭
+Heading: 赛格国际购物中心
+Body: 陕历博路线可在赛格吃午饭，距馆约430米。
+Body: 商场选择多，可尝尝西安限定钟楼蛋糕。
+
+Timeline row 4 time pill: 16:00后
+Heading: 大雁塔 + 大慈恩寺
+Body: 可乘地铁3号线前往大雁塔。
+Body: 只拍塔：大慈恩寺遗址公园、大悦城4楼观景台。
+Body: 想进寺留意18:00闭园。
+Price badge: 寺30元｜登塔另加25元
+
+Timeline row 5 time pill: 约19:00
+Heading: 北广场音乐喷泉
+Body: 免费，约10分钟；18:30到场站位。
+Body: 场次以当天公告为准。
+
+Timeline row 6 time pill: 夜晚
+Heading: 大唐不夜城，边逛边看表演
+Body: 步行街约2.1公里，免费。
+Body: 看当天演出表，热门表演提前半小时到。
+Body: 不倒翁在开元广场东侧，需排队。
+
+Timeline row 7 time pill: 晚饭／返程
+Heading: 袁家村小吃 + 错峰散场
+Body: 晚饭可选银泰百货3楼袁家村。
+Body: 返程可从开元广场星巴克旁小路出去叫车，或到慈恩西路。
+
+Bottom left ribbon: 为什么这样排？
+Numbered tips: ① 博物馆按预约择一，留足参观时间。
+② 大雁塔、喷泉、不夜城串成一晚。
+③ 先看当天表演安排，再决定停留顺序。
+
+Bottom right ribbon: 实用提醒
+Bullets: • 陕历博按攻略提前5天、17:00放票。
+• 西安博物院按攻略提前5天、18:00放票。
+• 不夜城演出表：公众号“大唐不夜城”。
+• 行程日期以约到的博物馆门票为锚点。
+
+Footer: 据《西安旅游攻略》整理｜票价、预约与场次以官方为准
+
+Right-side Xi'an scenes: Tang-style archaeological display for 安仁坊; authentic museum relics such as Tang sancai ceramics and bronze objects; 大雁塔 in warm late-afternoon light; blue hour music fountain with the pagoda in the background; 大唐不夜城 luminous pedestrian promenade and tasteful Tang-costumed performance. Small museum icons and noodle bowl. No unrelated animals or trams. No fabricated maps or current-time claims.

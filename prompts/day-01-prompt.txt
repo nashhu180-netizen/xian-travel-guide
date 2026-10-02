@@ -1,0 +1,57 @@
+Use case: infographic-diagram
+Create ONE finished Chinese travel infographic poster, DAY 1 of a consistent four-poster Xi'an travel set. Portrait 9:16, aim for high-resolution 2160×3840 if possible, rich illustrative detail and extremely legible Chinese text. The supplied Changchun poster is a STYLE AND COMPOSITION REFERENCE ONLY, not an edit target. Replace all its places, text and photographs with Xi'an content. Do not include Changchun, animals, trolleycars, or its erroneous duplicated times.
+
+Visual design: premium illustrated editorial tourist itinerary, warm ivory parchment background, dark forest-green brush-calligraphy headline, burnt-orange highlight words, emerald rounded section ribbons, orange and green timeline pills. Warm gold autumn leaves as restrained corner decorations; realistic watercolor/photo-collage scenes of Xi'an landmarks, elegant thin rules, generous text spacing. Match the reference's clear mobile-readable hierarchy. Top: large headline and subtitle. Under it: an illustrated horizontal sequence of places connected by arrows. Center: vertical itinerary timeline on the left about 60% width, four meaningful landmark vignettes on the right about 40%. Bottom: two tip panels. Maintain a flat finished poster, no frame, no mockup, no watermark. Chinese body text should be crisp modern typeset Chinese, not handwritten. Important numbers must be exact. Use ONLY the exact Chinese text provided below; no invented times, opening hours, distances, fares or claims. No dense tiny legal text. All illustration labels must match the corresponding place.
+
+Exact poster text, laid out in the following hierarchy:
+
+Main title: 西安第1天行程海报
+Subtitle: 古韵长安｜钟鼓楼与回坊｜碑林访古｜傍晚城墙看日落
+
+Section ribbon: 今日路线
+Illustrated route: 钟楼 → 鼓楼 → 回民街 → 碑林 → 明城墙 → 晚饭
+Small route note: 城墙内为主，步行串联；碑林距回民街约2.2公里。
+
+Section ribbon: 详细行程安排
+Timeline row 1 time pill: 上午
+Heading: 钟楼 → 地下通道 → 鼓楼
+Body: 在楼下拍照即可；过马路走地下通道。
+Body: 免费机位：开元商场5楼观景平台。
+Price badge: 登楼各30元｜联票50元
+
+Timeline row 2 time pill: 中午
+Heading: 回民街逛拍，小巷吃饭
+Body: 北院门主街拍照；吃饭去西羊市、洒金桥、大皮院或庙后街。
+Body: 有兴趣可看高家大院皮影戏。
+
+Timeline row 3 time pill: 午后
+Heading: 碑林博物馆 + 书院门
+Body: 看孔庙、碑林与石刻，建议请讲解。
+Body: 可从书院门一路走向城墙。
+Price badge: 碑林85元｜提前5天预约
+
+Timeline row 4 time pill: 17:00后
+Heading: 登城墙，看日落与晚霞
+Body: 文昌门或永宁门上城墙。
+Body: 骑行推荐：永宁门 → 含光门 → 西南角楼。
+Body: 全程13.7公里，不必骑满一圈。
+Price badge: 城墙54元｜单车45元／3小时
+
+Timeline row 5 time pill: 晚上
+Heading: 下城墙，吃一顿长安晚饭
+Body: 东侧：中山门／建国门 → 永兴坊、东新街夜市或老菜场。
+Body: 西侧：安定门 → 洒金桥。来碗羊肉泡馍收尾。
+
+Bottom left ribbon: 为什么这样排？
+Numbered tips: ① 钟鼓楼与回坊集中，步行更顺。
+② 午后逛馆，城墙留给日落。
+③ 骑一段就够，省下体力看夜景。
+
+Bottom right ribbon: 实用提醒
+Bullets: • 城墙少遮阴，避开正午。
+• 城墙按攻略提前3天、8:00放票。
+• 市内地铁为主，住宿可选钟楼周边挪一站。
+
+Footer in readable small type: 据《西安旅游攻略》整理｜票价、预约与开放时间以官方为准
+
+Right-side artwork: top Zhonglou/钟楼 historic bell tower, then Xi'an Drum Tower/鼓楼 with warm architectural light, then a tasteful stone-steles museum interior, then grand Xi'an city wall sunset with a tiny bicycle and warm night lights. Small food illustration: mutton paomo bowl. Do not distort landmark architecture. Do not insert an actual geographic map or fabricate geographic distances; the route is schematic.
